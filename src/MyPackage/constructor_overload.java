@@ -2,7 +2,7 @@ package MyPackage;
 
 public class constructor_overload {
 	
-	private int day,month,year;
+	private int day, month, year;
 	constructor_overload(){ //default constructor
 		day=1;
 		month=01;
